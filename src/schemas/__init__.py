@@ -18,4 +18,4 @@ from schemas.accounts import (
     TokenRefreshResponseSchema
 )
 
-from schemas.profiles import ProfileResponseSchema
+from schemas.profiles import ProfileResponseSchema, ProfileCreateSchema
